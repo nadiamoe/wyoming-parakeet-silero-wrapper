@@ -283,3 +283,6 @@ MIT License - feel free to use in your projects!
 2. `./manage.sh setup-logs` - Configure log management  
 3. Add to Home Assistant Wyoming integration
 4. Enjoy 35x faster voice recognition! 🎉
+=======
+# wyoming-parakeet-silero-wrapper
+Wyoming wrapper for Parakeet and Silero - a drop-in replacement for faster-whisper in Home Assistant
