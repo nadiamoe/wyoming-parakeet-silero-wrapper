@@ -23,8 +23,8 @@ PyYAML>=6.0
 # For Parakeet backend
 nemo-toolkit[asr]>=1.18.0
 
-# For Whisper backend  
-faster-whisper>=0.9.0
+# For Whisper backend
+# faster-whisper>=0.9.0
 
 # Optional: ONNX Runtime (for optimized VAD)
 onnx==1.18.0
